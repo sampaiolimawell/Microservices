@@ -1,0 +1,1724 @@
+{
+  "consulta": {
+    "cpf": "30417366833",
+    "timestamp": "2025-07-29T19:13:02.504Z",
+    "totalProcessos": 30
+  },
+  "processos": [
+    {
+      "urlProcesso": "https://esaj.tjsp.jus.br/cpopg/search.do?conversationId=&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=1028471-19.2024&foroNumeroUnificado=0050&dadosConsulta.valorConsultaNuUnificado=1028471-19.2024.8.26.0050&dadosConsulta.valorConsultaNuUnificado=UNIFICADO&dadosConsulta.valorConsulta=&dadosConsulta.tipoNuProcesso=UNIFICADO&uuidCaptcha=sajcaptcha_fd07248e2fb141cd85f0f16727e5b056&g-recaptcha-response=",
+      "numeroProcessoUnico": "10284711920248260050",
+      "grauProcesso": 1,
+      "tribunal": "TJ-SP",
+      "uf": "SP",
+      "classeProcessual": {
+        "nome": "CARTA PRECATORIA CRIMINAL",
+        "codigoCNJ": "355"
+      },
+      "assuntosCNJ": [
+        {
+          "ePrincipal": true,
+          "titulo": "CITACAO"
+        }
+      ],
+      "dataDistribuicao": "2024-08-16T16:54:00",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "dataAtualizacao": "2025-03-28",
+          "polo": "ATIVO",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "cnpjRaiz": "51174001",
+          "nome": "JUSTICA PUBLICA",
+          "cnpj": "51174001000193"
+        },
+        {
+          "tipo": "AUTOR",
+          "dataAtualizacao": "2025-03-28",
+          "polo": "ATIVO",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "cnpjRaiz": "93802833",
+          "nome": "MINISTERIO PUBLICO DO ESTADO DO RIO GRANDE DO SUL",
+          "cnpj": "93802833000157"
+        },
+        {
+          "tipo": "REU",
+          "dataAtualizacao": "2024-08-18",
+          "polo": "PASSIVO",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "cpf": "30417366833",
+          "nome": "IGOR ANGELO FUNINI"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://eproc1g.tjsc.jus.br/eproc/",
+      "numeroProcessoUnico": "50250648720248240018",
+      "grauProcesso": 1,
+      "tribunal": "TJ-SC",
+      "uf": "SC",
+      "classeProcessual": {
+        "nome": "CARTA PRECATORIA CRIMINAL",
+        "codigoCNJ": "355"
+      },
+      "assuntosCNJ": [
+        {
+          "codigoCNJ": "287",
+          "ePrincipal": false,
+          "titulo": "DIREITO PENAL"
+        },
+        {
+          "codigoCNJ": "3603",
+          "ePrincipal": false,
+          "titulo": "CRIMES PREVISTOS NA LEGISLACAO EXTRAVAGANTE"
+        },
+        {
+          "codigoCNJ": "3632",
+          "ePrincipal": true,
+          "titulo": "CRIMES DE TRANSITO"
+        },
+        {
+          "codigoCNJ": "8826",
+          "ePrincipal": false,
+          "titulo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO"
+        },
+        {
+          "codigoCNJ": "11781",
+          "ePrincipal": false,
+          "titulo": "OBJETOS DE CARTAS PRECATORIAS CIVEIS/DE ORDEM"
+        },
+        {
+          "codigoCNJ": "11782",
+          "ePrincipal": false,
+          "titulo": "INTIMACAO"
+        },
+        {
+          "codigoCNJ": "8826",
+          "ePrincipal": false,
+          "titulo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO"
+        },
+        {
+          "codigoCNJ": "11781",
+          "ePrincipal": false,
+          "titulo": "OBJETOS DE CARTAS PRECATORIAS CIVEIS/DE ORDEM"
+        },
+        {
+          "ePrincipal": false,
+          "titulo": "CITACAO"
+        }
+      ],
+      "dataDistribuicao": "2024-08-15T17:24:55",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "dataAtualizacao": "2025-01-25",
+          "polo": "ATIVO",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "cnpjRaiz": "93802833",
+          "nome": "MINISTERIO PUBLICO DO ESTADO DO RIO GRANDE DO SUL",
+          "cnpj": "93802833000157"
+        },
+        {
+          "tipo": "REU",
+          "dataAtualizacao": "2025-01-25",
+          "polo": "PASSIVO",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "cpf": "30417366833",
+          "nome": "IGOR ANGELO FUNINI"
+        },
+        {
+          "tipo": "DEPRECANTE",
+          "dataAtualizacao": "2025-01-25",
+          "polo": "ATIVO",
+          "advogados": [],
+          "nome": "OUTROS SISTEMAS OU ESTADOS"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      },
+      "temSentenca": false
+    },
+    {
+      "urlProcesso": "https://eproc1g.tjsc.jus.br/eproc/",
+      "numeroProcessoUnico": "50323262520238240018",
+      "grauProcesso": 1,
+      "tribunal": "TJ-SC",
+      "uf": "SC",
+      "classeProcessual": {
+        "nome": "CARTA PRECATORIA CIVEL",
+        "codigoCNJ": "261"
+      },
+      "assuntosCNJ": [
+        {
+          "codigoCNJ": "899",
+          "ePrincipal": false,
+          "titulo": "DIREITO CIVIL"
+        },
+        {
+          "codigoCNJ": "7681",
+          "ePrincipal": false,
+          "titulo": "OBRIGACOES"
+        },
+        {
+          "codigoCNJ": "7717",
+          "ePrincipal": false,
+          "titulo": "ESPECIES DE TITULOS DE CREDITO"
+        },
+        {
+          "codigoCNJ": "4980",
+          "ePrincipal": true,
+          "titulo": "NOTA PROMISSORIA"
+        },
+        {
+          "codigoCNJ": "8826",
+          "ePrincipal": false,
+          "titulo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO"
+        },
+        {
+          "codigoCNJ": "8893",
+          "ePrincipal": false,
+          "titulo": "ATOS PROCESSUAIS"
+        },
+        {
+          "ePrincipal": false,
+          "titulo": "CITACAO"
+        }
+      ],
+      "dataDistribuicao": "2023-12-04T12:37:59",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "dataAtualizacao": "2024-06-14",
+          "polo": "ATIVO",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "cpf": "64740935015",
+          "nome": "OSMAR FRIEDRICH"
+        },
+        {
+          "tipo": "REU",
+          "dataAtualizacao": "2024-06-14",
+          "polo": "PASSIVO",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "cpf": "30417366833",
+          "nome": "IGOR ANGELO FUNINI"
+        },
+        {
+          "tipo": "DEPRECANTE",
+          "dataAtualizacao": "2024-06-14",
+          "polo": "ATIVO",
+          "advogados": [],
+          "nome": "OUTROS SISTEMAS OU ESTADOS"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      },
+      "temSentenca": false
+    },
+    {
+      "urlProcesso": "https://eproc1g.tjrs.jus.br/eproc/",
+      "numeroProcessoUnico": "50002336220238210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "EXECUCAO DE TITULO EXTRAJUDICIAL"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "DIREITO CIVIL",
+          "codigoCNJ": "899",
+          "ePrincipal": false
+        },
+        {
+          "titulo": "OBRIGACOES",
+          "codigoCNJ": "7681",
+          "ePrincipal": false
+        },
+        {
+          "titulo": "ESPECIES DE TITULOS DE CREDITO",
+          "codigoCNJ": "7717",
+          "ePrincipal": false
+        },
+        {
+          "titulo": "NOTA PROMISSORIA",
+          "codigoCNJ": "4980",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2023-03-01T10:22:01",
+      "partes": [
+        {
+          "tipo": "EXEQUENTE",
+          "nome": "OSMAR FRIEDRICH",
+          "polo": "ATIVO",
+          "cpf": "64740935015",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [
+            {
+              "tipo": "ADVOGADO",
+              "nome": "PATRICIA ROSA DOCE MEIRELES",
+              "cpf": "01377303063",
+              "oab": {
+                "uf": "RS",
+                "numero": 108082
+              },
+              "dataAtualizacao": "2024-11-29"
+            }
+          ],
+          "dataAtualizacao": "2024-11-29"
+        },
+        {
+          "tipo": "EXECUTADO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "dataAtualizacao": "2024-11-29"
+        },
+        {
+          "tipo": "CONCILIADOR/JUIZ LEIGO",
+          "nome": "PRISCILA TROMBETTA ENDERLE",
+          "cpf": "01932346023",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [
+            {
+              "tipo": "PROCURADOR",
+              "nome": "PRISCILA TROMBETTA ENDERLE J",
+              "cpf": "01932346023",
+              "oab": {
+                "uf": "RS",
+                "numero": 86396
+              },
+              "dataAtualizacao": "2024-11-29"
+            }
+          ],
+          "dataAtualizacao": "2024-11-29"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 3939
+      }
+    },
+    {
+      "urlProcesso": "https://eproc1g.tjrs.jus.br/eproc/",
+      "numeroProcessoUnico": "50013927420228210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "CUMPRIMENTO DE SENTENCA",
+        "codigoCNJ": "156"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "DIREITO CIVIL",
+          "codigoCNJ": "899",
+          "ePrincipal": false
+        },
+        {
+          "titulo": "OBRIGACOES",
+          "codigoCNJ": "7681",
+          "ePrincipal": false
+        },
+        {
+          "titulo": "ESPECIES DE TITULOS DE CREDITO",
+          "codigoCNJ": "7717",
+          "ePrincipal": false
+        },
+        {
+          "titulo": "CHEQUE",
+          "codigoCNJ": "4970",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2022-08-29T15:28:52",
+      "partes": [
+        {
+          "tipo": "EXEQUENTE",
+          "nome": "ALESSIO ANTONIO DURANTE",
+          "polo": "ATIVO",
+          "cnpj": "07483891000123",
+          "cnpjRaiz": "07483891",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [
+            {
+              "tipo": "ADVOGADO",
+              "nome": "SAMIRA DREON",
+              "cpf": "09126264960",
+              "oab": {
+                "uf": "RS",
+                "numero": 107302
+              },
+              "dataAtualizacao": "2024-06-29"
+            },
+            {
+              "tipo": "ADVOGADO",
+              "nome": "MARCELO GOELLNER",
+              "cpf": "81425376053",
+              "oab": {
+                "uf": "RS",
+                "numero": 76641
+              },
+              "dataAtualizacao": "2024-06-29"
+            }
+          ],
+          "dataAtualizacao": "2024-06-29"
+        },
+        {
+          "tipo": "EXECUTADO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "dataAtualizacao": "2024-06-29"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 2571.84
+      }
+    },
+    {
+      "urlProcesso": "https://eproc1g.tjrs.jus.br/eproc/",
+      "numeroProcessoUnico": "50016326920218210069",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "TERMO CIRCUNSTANCIADO",
+        "codigoCNJ": "278"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "DIREITO PENAL",
+          "codigoCNJ": "287",
+          "ePrincipal": false
+        },
+        {
+          "titulo": "CRIMES PREVISTOS NA LEGISLACAO EXTRAVAGANTE",
+          "codigoCNJ": "3603",
+          "ePrincipal": true
+        },
+        {
+          "titulo": "CRIMES DE TRANSITO (LEI 9.503/97",
+          "ePrincipal": false
+        }
+      ],
+      "dataDistribuicao": "2021-10-11T14:13:42",
+      "partes": [
+        {
+          "tipo": "AUTORIDADE POLICIAL",
+          "nome": "BRIGADA MILITAR DO ESTADO DO RIO GRANDE DO SUL",
+          "polo": "ATIVO",
+          "cnpj": "89175541000164",
+          "cnpjRaiz": "89175541",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [
+            {
+              "tipo": "ESCRIVAO DA POLICIA",
+              "nome": "CARINA BERTOLINI",
+              "cpf": "94193150020",
+              "oab": {
+                "uf": "BM",
+                "numero": 2689049
+              },
+              "dataAtualizacao": "2024-06-12"
+            },
+            {
+              "tipo": "DELEGADO DA POLICIA",
+              "nome": "WILLIAM MEZZOMO RAGNINI",
+              "cpf": "01723420077",
+              "oab": {
+                "uf": "BM",
+                "numero": 3744663
+              },
+              "dataAtualizacao": "2024-06-12"
+            },
+            {
+              "tipo": "ESCRIVAO DA POLICIA",
+              "nome": "IVANOR PEDRO PIAZZA",
+              "cpf": "43526918015",
+              "oab": {
+                "uf": "BM",
+                "numero": 2278596
+              },
+              "dataAtualizacao": "2024-06-12"
+            }
+          ],
+          "dataAtualizacao": "2024-06-12"
+        },
+        {
+          "tipo": "AUTOR DO FATO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "dataAtualizacao": "2024-06-12"
+        },
+        {
+          "tipo": "MINISTERIO PUBLICO",
+          "nome": "MINISTERIO PUBLICO DO ESTADO DO RIO GRANDE DO SUL",
+          "cnpj": "93802833000157",
+          "cnpjRaiz": "93802833",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "dataAtualizacao": "2024-06-12"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00012421820218210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "CARTA PRECATORIA"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "CARTAS",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2021-07-06T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "ATIVO",
+          "cpf": "30417366833",
+          "dataAtualizacao": "2024-09-17"
+        },
+        {
+          "tipo": "REU",
+          "nome": "CLAUDIA FRANCIELE DE LIMA",
+          "polo": "PASSIVO",
+          "cpf": "01701823047",
+          "dataAtualizacao": "2024-09-17"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 9915
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00012058820218210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "TERMO CIRCUNSTANCIADO",
+        "codigoCNJ": "278"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "AMEACA",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2021-06-21T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR DO FATO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "dataAtualizacao": "2024-09-17"
+        },
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "dataAtualizacao": "2024-09-17"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00004361720208210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "ACAO PENAL - PROCEDIMENTO ORDINARIO",
+        "codigoCNJ": "283"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "FURTO",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2020-08-13T00:00:00",
+      "partes": [
+        {
+          "tipo": "REU",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "dataAtualizacao": "2024-08-25"
+        },
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "dataAtualizacao": "2024-08-25"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://www.tjrs.jus.br/site_php/consulta/verifica_codigo.php?nome_comarca=Constantina&versao=&versao_fonetica=1&tipo=1&id_comarca=constantina&intervalo_movimentacao=0&N1_var2=1&id_comarca1=constantina&num_processo_mask=90001325920208210092&num_processo=90001325920208210092&numCNJ=S&id_comarca2=700&uf_oab=RS&num_oab=&foro=0&N1_var2_1=1&intervalo_movimentacao_1=15&N1_var=&id_comarca3=700&nome_parte=&tipo_pesq=F&N1_var2_2=1&code=",
+      "numeroProcessoUnico": "90001325920208210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "EXECUCAO DE TITULO EXTRAJUDICIAL"
+      },
+      "assuntosCNJ": [
+        {
+          "codigoCNJ": "4970",
+          "ePrincipal": true,
+          "titulo": "CHEQUE"
+        }
+      ],
+      "dataDistribuicao": "2020-05-04T00:00:00",
+      "partes": [
+        {
+          "tipo": "EXEQUENTE",
+          "dataAtualizacao": "2025-02-21",
+          "polo": "ATIVO",
+          "advogados": [
+            {
+              "oab": {
+                "uf": "RS",
+                "numero": 74817
+              },
+              "tipo": "ADVOGADO",
+              "cpf": "92936121000",
+              "nome": "FLAMARION FIORI"
+            }
+          ],
+          "cpf": "02287839097",
+          "nome": "VINICIUS BONFANTI RIBOLI"
+        },
+        {
+          "tipo": "EXECUTADO",
+          "dataAtualizacao": "2025-02-21",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "nome": "IGOR ANGELO FUNINI"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 462.46
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00011856820198210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "ACAO PENAL - PROCEDIMENTO ORDINARIO",
+        "codigoCNJ": "283"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "AMEACA",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2019-10-02T00:00:00",
+      "partes": [
+        {
+          "tipo": "REU",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-20"
+        },
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-20"
+        },
+        {
+          "tipo": "VITIMA",
+          "nome": "CLAUDIA FRANCIELE DE LIMA",
+          "cpf": "01701823047",
+          "advogados": [],
+          "dataAtualizacao": "2025-05-24"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00011804620198210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "TERMO CIRCUNSTANCIADO",
+        "codigoCNJ": "278"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "AMEACA",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2019-10-02T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR DO FATO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-20"
+        },
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-20"
+        },
+        {
+          "tipo": "VITIMA",
+          "nome": "CLEOMAR WILLIAN GONCALVES",
+          "cpf": "60001556037",
+          "advogados": [],
+          "dataAtualizacao": "2025-05-24"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://seeu.pje.jus.br/seeu/",
+      "numeroProcessoUnico": "80000030820198210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "EXECUCAO DA PENA",
+        "codigoCNJ": "386"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "PENA RESTRITIVA DE DIREITOS",
+          "codigoCNJ": "7790",
+          "ePrincipal": true
+        },
+        {
+          "titulo": "AMEACA",
+          "codigoCNJ": "3402",
+          "ePrincipal": false
+        }
+      ],
+      "dataDistribuicao": "2019-08-14T11:48:58",
+      "partes": [
+        {
+          "tipo": "AUTORIDADE",
+          "nome": "ESTADO DO RIO GRANDE DO SUL",
+          "polo": "ATIVO",
+          "cnpj": "87934675000196",
+          "cnpjRaiz": "87934675",
+          "advogados": [],
+          "dataAtualizacao": "2024-04-12"
+        },
+        {
+          "tipo": "EXECUTADO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "rg": "4084161787 SSP/RS",
+          "advogados": [],
+          "dataAtualizacao": "2024-04-12"
+        }
+      ]
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "90001675320198210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "EXECUCAO DE TITULO EXTRAJUDICIAL"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "NOTA PROMISSORIA",
+          "codigoCNJ": "4980",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2019-04-03T00:00:00",
+      "partes": [
+        {
+          "tipo": "EXEQUENTE",
+          "nome": "VINICIUS BONFANTI RIBOLI",
+          "polo": "ATIVO",
+          "cpf": "02287839097",
+          "dataAtualizacao": "2024-10-05"
+        },
+        {
+          "tipo": "EXECUTADO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "dataAtualizacao": "2024-10-05"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 836.91
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00003005420198210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "TERMO CIRCUNSTANCIADO",
+        "codigoCNJ": "278"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "AMEACA",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2019-03-15T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR DO FATO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-06"
+        },
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-06"
+        },
+        {
+          "tipo": "VITIMA",
+          "nome": "ALESSANDRO DA SILVA RODRIGUES",
+          "cpf": "02121009043",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-05-07"
+        },
+        {
+          "tipo": "VITIMA",
+          "nome": "MARCOS MIGUEL MILAN JORIATTI",
+          "cpf": "34692853816",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-05-07"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://www.tjrs.jus.br/site_php/consulta/verifica_codigo.php?nome_comarca=Constantina&versao=&versao_fonetica=1&tipo=1&id_comarca=constantina&intervalo_movimentacao=0&N1_var2=1&id_comarca1=constantina&num_processo_mask=00012064920168210092&num_processo=00012064920168210092&numCNJ=S&id_comarca2=700&uf_oab=RS&num_oab=&foro=0&N1_var2_1=1&intervalo_movimentacao_1=15&N1_var=&id_comarca3=700&nome_parte=&tipo_pesq=F&N1_var2_2=1&code=",
+      "numeroProcessoUnico": "00012064920168210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "TERMO CIRCUNSTANCIADO",
+        "codigoCNJ": "278"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "CRIMES DE TRANSITO",
+          "codigoCNJ": "3632",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2016-08-26T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR DO FATO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "dataAtualizacao": "2024-10-19"
+        },
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "cnpj": "89522064004404",
+          "cnpjRaiz": "89522064",
+          "dataAtualizacao": "2024-10-19"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00022515920148210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "TERMO CIRCUNSTANCIADO",
+        "codigoCNJ": "278"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "LEVE",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2014-11-14T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR DO FATO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-07-03"
+        },
+        {
+          "tipo": "AUTOR DO FATO",
+          "nome": "MAGNO JOSE MATTANA",
+          "polo": "PASSIVO",
+          "cpf": "98485989015",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-07-03"
+        },
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "advogados": [],
+          "dataAtualizacao": "2025-07-03"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://www.tjrs.jus.br/site_php/consulta/verifica_codigo.php?nome_comarca=Tribunal+de+Justiça&versao=&versao_fonetica=1&tipo=1&id_comarca=700&intervalo_movimentacao=0&N1_var2=1&id_comarca1=700&num_processo_mask=02229904020138217000&num_processo=02229904020138217000&numCNJ=S&id_comarca2=700&uf_oab=RS&num_oab=&foro=0&N1_var2_1=1&intervalo_movimentacao_1=15&N1_var=&id_comarca3=700&nome_parte=&tipo_pesq=F&N1_var2_2=1&code=",
+      "numeroProcessoUnico": "02229904020138217000",
+      "grauProcesso": 2,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "APELACAO"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "FALSO TESTEMUNHO OU FALSA PERICIA",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2013-06-06T00:00:00",
+      "partes": [
+        {
+          "tipo": "APELANTE",
+          "nome": "MINISTERIO PUBLICO",
+          "polo": "ATIVO",
+          "cnpj": "08539710000104",
+          "cnpjRaiz": "08539710",
+          "dataAtualizacao": "2024-10-18"
+        },
+        {
+          "tipo": "APELADO",
+          "nome": "PAULINO RUANI",
+          "polo": "PASSIVO",
+          "cpf": "27470466053",
+          "advogados": [
+            {
+              "tipo": "ADVOGADO",
+              "nome": "CLELIA JULIANA RUGERI",
+              "cpf": "61340529068",
+              "oab": {
+                "uf": "RS",
+                "numero": 45924
+              }
+            },
+            {
+              "tipo": "ADVOGADO",
+              "nome": "LEODILA BOHM HALLWASS",
+              "cpf": "43320937049",
+              "oab": {
+                "uf": "RS",
+                "numero": 66490
+              }
+            },
+            {
+              "tipo": "ADVOGADO",
+              "nome": "NORBERTO HALLWASS",
+              "cpf": "48605425091",
+              "oab": {
+                "uf": "RS",
+                "numero": 29612
+              }
+            },
+            {
+              "tipo": "ADVOGADO",
+              "nome": "SONIMAR JOSE REINHER",
+              "cpf": "61339423049",
+              "oab": {
+                "uf": "RS",
+                "numero": 74839
+              }
+            }
+          ],
+          "dataAtualizacao": "2024-10-18"
+        },
+        {
+          "tipo": "APELADO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "advogados": [
+            {
+              "tipo": "ADVOGADO",
+              "nome": "CLELIA JULIANA RUGERI",
+              "cpf": "61340529068",
+              "oab": {
+                "uf": "RS",
+                "numero": 45924
+              }
+            },
+            {
+              "tipo": "ADVOGADO",
+              "nome": "LEODILA BOHM HALLWASS",
+              "cpf": "43320937049",
+              "oab": {
+                "uf": "RS",
+                "numero": 66490
+              }
+            },
+            {
+              "tipo": "ADVOGADO",
+              "nome": "NORBERTO HALLWASS",
+              "cpf": "48605425091",
+              "oab": {
+                "uf": "RS",
+                "numero": 29612
+              }
+            },
+            {
+              "tipo": "ADVOGADO",
+              "nome": "SONIMAR JOSE REINHER",
+              "cpf": "61339423049",
+              "oab": {
+                "uf": "RS",
+                "numero": 74839
+              }
+            }
+          ],
+          "dataAtualizacao": "2024-10-18"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00020097120128210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "TERMO CIRCUNSTANCIADO",
+        "codigoCNJ": "278"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "AMEACA",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2012-08-15T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR DO FATO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-30"
+        },
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-30"
+        },
+        {
+          "tipo": "VITIMA",
+          "nome": "CLAUDIA FRANCIELE DE LIMA",
+          "cpf": "01701823047",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-09"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00011494220128210069",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "CARTA PRECATORIA"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "PROPOSTA DE SUSPENSAO E/OU INTERROGATORIO E FISCALIZACAO (LEI 9099/95)",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2012-03-26T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-20"
+        },
+        {
+          "tipo": "REU",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "AGREGADO",
+          "advogados": [
+            {
+              "tipo": "ADVOGADO",
+              "nome": "JOSE ANTONIO DE OLIVEIRA VALLE",
+              "cpf": "05590582091",
+              "oab": {
+                "uf": "RS",
+                "numero": 3854
+              },
+              "dataAtualizacao": "2025-06-20"
+            }
+          ],
+          "dataAtualizacao": "2025-06-20"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00011485720128210069",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "CARTA PRECATORIA"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "CITACAO",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2012-03-26T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "advogados": [],
+          "dataAtualizacao": "2025-02-02"
+        },
+        {
+          "tipo": "REU",
+          "nome": "PAULINO RUANI",
+          "polo": "PASSIVO",
+          "cpf": "27470466053",
+          "origemDocumento": "AGREGADO",
+          "advogados": [
+            {
+              "tipo": "ADVOGADO",
+              "nome": "NORBERTO HALLWASS",
+              "cpf": "48605425091",
+              "oab": {
+                "uf": "RS",
+                "numero": 29612
+              },
+              "dataAtualizacao": "2025-02-02"
+            }
+          ],
+          "dataAtualizacao": "2025-02-02"
+        },
+        {
+          "tipo": "REU",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "AGREGADO",
+          "advogados": [
+            {
+              "tipo": "ADVOGADO",
+              "nome": "NORBERTO HALLWASS",
+              "cpf": "48605425091",
+              "oab": {
+                "uf": "RS",
+                "numero": 29612
+              },
+              "dataAtualizacao": "2025-02-02"
+            }
+          ],
+          "dataAtualizacao": "2025-02-02"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://www.tjrs.jus.br/site_php/consulta/verifica_codigo.php?nome_comarca=Constantina&versao=&versao_fonetica=1&tipo=1&id_comarca=constantina&intervalo_movimentacao=0&N1_var2=1&id_comarca1=constantina&num_processo_mask=00005226620128210092&num_processo=00005226620128210092&numCNJ=S&id_comarca2=700&uf_oab=RS&num_oab=&foro=0&N1_var2_1=1&intervalo_movimentacao_1=15&N1_var=&id_comarca3=700&nome_parte=&tipo_pesq=F&N1_var2_2=1&code=",
+      "numeroProcessoUnico": "00005226620128210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "CARTA PRECATORIA"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "CARTAS",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2012-03-13T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "cnpj": "89522064004404",
+          "cnpjRaiz": "89522064",
+          "dataAtualizacao": "2024-10-18"
+        },
+        {
+          "tipo": "REU",
+          "nome": "PAULINO RUANI",
+          "polo": "PASSIVO",
+          "cpf": "27470466053",
+          "dataAtualizacao": "2024-10-18"
+        },
+        {
+          "tipo": "REU",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "dataAtualizacao": "2024-10-18"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00001814020128210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "EXECUCAO DE TITULO EXTRAJUDICIAL"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "NOTA PROMISSORIA",
+          "codigoCNJ": "4980",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2012-01-24T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "nome": "PEDRO MARTINHO BRESSAN",
+          "polo": "ATIVO",
+          "cpf": "24751430025",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2024-10-04"
+        },
+        {
+          "tipo": "REU",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2024-10-04"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 4000
+      }
+    },
+    {
+      "urlProcesso": "https://ppe.tjrs.jus.br/ppe/signin",
+      "numeroProcessoUnico": "00048929420118210069",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "CARTA PRECATORIA"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "CARTAS :: INQUIRICAO",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2011-10-26T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "advogados": [],
+          "dataAtualizacao": "2025-07-16"
+        },
+        {
+          "tipo": "REU",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-07-16"
+        },
+        {
+          "tipo": "REU",
+          "nome": "PAULINO RUANI",
+          "polo": "PASSIVO",
+          "cpf": "27470466053",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-07-16"
+        },
+        {
+          "tipo": "TESTEMUNHA DE ACUSACAO",
+          "nome": "DIVINO BERGAMASCHI",
+          "cpf": "12356875034",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-07-16"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00049020620108210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "TERMO CIRCUNSTANCIADO",
+        "codigoCNJ": "278"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "CRIMES DE TRANSITO",
+          "codigoCNJ": "3632",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2010-09-09T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR DO FATO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "dataAtualizacao": "2024-07-11"
+        },
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "dataAtualizacao": "2024-07-11"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00025126320108210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "TERMO CIRCUNSTANCIADO",
+        "codigoCNJ": "278"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "AMEACA",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2010-05-25T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR DO FATO",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-07-08"
+        },
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "advogados": [],
+          "dataAtualizacao": "2025-07-08"
+        },
+        {
+          "tipo": "VITIMA",
+          "nome": "MARCSON GAI",
+          "cpf": "97649376087",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-16"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://consulta.tjrs.jus.br/consulta-processual/",
+      "numeroProcessoUnico": "00011728420108210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "TERMO CIRCUNSTANCIADO",
+        "codigoCNJ": "278"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "AMEACA",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2010-03-22T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR DO FATO",
+          "nome": "MARCOS MIGUEL MILAN JORIATTI",
+          "polo": "PASSIVO",
+          "cpf": "34692853816",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-20"
+        },
+        {
+          "tipo": "AUTOR",
+          "nome": "JUSTICA PUBLICA",
+          "polo": "ATIVO",
+          "advogados": [],
+          "dataAtualizacao": "2025-06-20"
+        },
+        {
+          "tipo": "VITIMA",
+          "nome": "IGOR ANGELO FUNINI",
+          "cpf": "30417366833",
+          "advogados": [],
+          "dataAtualizacao": "2025-05-23"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 0
+      }
+    },
+    {
+      "urlProcesso": "https://www.tjrs.jus.br/site_php/consulta/verifica_codigo.php?nome_comarca=Constantina&versao=&versao_fonetica=1&tipo=1&id_comarca=constantina&intervalo_movimentacao=0&N1_var2=1&id_comarca1=constantina&num_processo_mask=00102519220078210092&num_processo=00102519220078210092&numCNJ=S&id_comarca2=700&uf_oab=RS&num_oab=&foro=0&N1_var2_1=1&intervalo_movimentacao_1=15&N1_var=&id_comarca3=700&nome_parte=&tipo_pesq=F&N1_var2_2=1&code=",
+      "numeroProcessoUnico": "00102519220078210092",
+      "grauProcesso": 1,
+      "tribunal": "TJ-RS",
+      "uf": "RS",
+      "classeProcessual": {
+        "nome": "ARRESTO",
+        "codigoCNJ": "178"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "NAO INFORMADO",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2007-10-22T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "nome": "VALCIR MENEGAZZO",
+          "polo": "ATIVO",
+          "cpf": "38966999034",
+          "advogados": [
+            {
+              "tipo": "ADVOGADO",
+              "nome": "EDISON CLAUDINEI KUSTER",
+              "cpf": "38967006004",
+              "oab": {
+                "uf": "RS",
+                "numero": 31103
+              }
+            },
+            {
+              "tipo": "ADVOGADO",
+              "nome": "JOAO CARLINHOS CAMARGO",
+              "cpf": "43599265020",
+              "oab": {
+                "uf": "RS",
+                "numero": 46640
+              }
+            }
+          ],
+          "dataAtualizacao": "2024-10-20"
+        },
+        {
+          "tipo": "REU",
+          "nome": "IGOR ANGELO FUNINI",
+          "polo": "PASSIVO",
+          "cpf": "30417366833",
+          "dataAtualizacao": "2024-10-20"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 2156.18
+      }
+    },
+    {
+      "urlProcesso": "https://esaj.tjsp.jus.br/cpopg/search.do?conversationId=&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0155444-16.2006&foroNumeroUnificado=0002&dadosConsulta.valorConsultaNuUnificado=0155444-16.2006.8.26.0002&dadosConsulta.valorConsultaNuUnificado=UNIFICADO&dadosConsulta.valorConsulta=&dadosConsulta.tipoNuProcesso=UNIFICADO&uuidCaptcha=sajcaptcha_d37211e1f1424cd09579149f72f9ab6b&g-recaptcha-response=",
+      "numeroProcessoUnico": "01554441620068260002",
+      "grauProcesso": 1,
+      "tribunal": "TJ-SP",
+      "uf": "SP",
+      "classeProcessual": {
+        "nome": "DEPOSITO",
+        "codigoCNJ": "35"
+      },
+      "assuntosCNJ": [
+        {
+          "ePrincipal": true,
+          "titulo": "DEPOSITO"
+        }
+      ],
+      "dataDistribuicao": "2006-08-07T16:03:00",
+      "partes": [
+        {
+          "tipo": "REQUERENTE",
+          "dataAtualizacao": "2025-02-01",
+          "polo": "ATIVO",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [
+            {
+              "oab": {
+                "uf": "SP",
+                "numero": 73055
+              },
+              "tipo": "ADVOGADO",
+              "dataAtualizacao": "2025-02-01",
+              "cpf": "01649439865",
+              "nome": "JORGE DONIZETI SANCHEZ"
+            }
+          ],
+          "cnpjRaiz": "08139961",
+          "nome": "V2 TIBAGI FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS MULTICARTEIRA NAO-PADRONIZADO (FUNDO)",
+          "cnpj": "08139961000193"
+        },
+        {
+          "tipo": "REQUERIDO",
+          "dataAtualizacao": "2025-02-01",
+          "polo": "PASSIVO",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "cpf": "30417366833",
+          "nome": "IGOR ANGELO FUNINI"
+        },
+        {
+          "tipo": "ASSISTENTE",
+          "dataAtualizacao": "2025-02-01",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [
+            {
+              "oab": {
+                "uf": "SP",
+                "numero": 165160
+              },
+              "tipo": "ADVOGADO",
+              "dataAtualizacao": "2025-02-01",
+              "cpf": "26279373835",
+              "nome": "ANA CAROLINA DE MIRANDA ANTUNES"
+            },
+            {
+              "oab": {
+                "uf": "SP",
+                "numero": 193308
+              },
+              "tipo": "ADVOGADO",
+              "dataAtualizacao": "2025-02-01",
+              "cpf": "19504203884",
+              "nome": "ALESSANDRO ELIAS DO NASCIMENTO ASSEF"
+            }
+          ],
+          "cnpjRaiz": "08139961",
+          "nome": "V2 TIBAGI FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS MULLTICARTEIRA - NAO PADRONIZADO (FUNDO)",
+          "cnpj": "08139961000193"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 1835.16
+      }
+    },
+    {
+      "urlProcesso": "https://aplicacoes5.trt2.jus.br/consultasphp/public/index.php/primeirainstancia",
+      "numeroProcessoUnico": "01800002220035020062",
+      "grauProcesso": 1,
+      "tribunal": "TRT-2",
+      "uf": "SP",
+      "classeProcessual": {
+        "nome": "ACAO TRABALHISTA (SUMARISSIMO)"
+      },
+      "dataDistribuicao": "2003-08-19T00:00:00",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "dataAtualizacao": "2025-07-09",
+          "polo": "ATIVO",
+          "origemDocumento": "AGREGADO",
+          "advogados": [
+            {
+              "oab": {
+                "uf": "SP",
+                "numero": 60729
+              },
+              "tipo": "ADVOGADO",
+              "dataAtualizacao": "2025-07-09",
+              "cpf": "00724392890",
+              "nome": "ARNALDO DE ARRUDA MENDES NETTO"
+            }
+          ],
+          "cpf": "30417366833",
+          "nome": "IGOR ANGELO FUNINI"
+        },
+        {
+          "tipo": "REU",
+          "dataAtualizacao": "2025-07-09",
+          "polo": "PASSIVO",
+          "origemDocumento": "AGREGADO",
+          "advogados": [],
+          "cnpjRaiz": "01109120",
+          "nome": "FACO 2000 COMERCIO DE ALIMENTOS LTDA",
+          "cnpj": "01109120000194"
+        }
+      ]
+    }
+  ]
+}

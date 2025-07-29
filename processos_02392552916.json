@@ -1,0 +1,216 @@
+{
+  "consulta": {
+    "cpf": "02392552916",
+    "timestamp": "2025-07-29T18:48:11.154Z",
+    "totalProcessos": 2
+  },
+  "processos": [
+    {
+      "urlProcesso": "https://eproc1g.tjsc.jus.br/eproc/",
+      "numeroProcessoUnico": "50521432120248240930",
+      "statusObservacao": "BAIXADO",
+      "grauProcesso": 1,
+      "juiz": "CINTIA GONCALVES COSTI",
+      "area": "CIVIL - BANCARIO (UNIDADE ESTADUAL)",
+      "sistema": "EPROC-TJSC",
+      "segmento": "JUSTICA ESTADUAL",
+      "tribunal": "TJ-SC",
+      "uf": "SC",
+      "orgaoJulgador": "10º JUIZO DA VARA ESTADUAL DE DIREITO BANCARIO",
+      "classeProcessual": {
+        "nome": "PROCEDIMENTO COMUM CIVEL",
+        "codigoCNJ": "7"
+      },
+      "assuntosCNJ": [
+        {
+          "codigoCNJ": "1156",
+          "ePrincipal": false,
+          "titulo": "DIREITO DO CONSUMIDOR"
+        },
+        {
+          "codigoCNJ": "7771",
+          "ePrincipal": false,
+          "titulo": "CONTRATOS DE CONSUMO"
+        },
+        {
+          "codigoCNJ": "7752",
+          "ePrincipal": true,
+          "titulo": "BANCARIOS"
+        },
+        {
+          "ePrincipal": false,
+          "titulo": "CAPITALIZACAO/ANATOCISMO"
+        },
+        {
+          "ePrincipal": false,
+          "titulo": "REVISAO DE JUROS REMUNERATORIOS"
+        }
+      ],
+      "dataDistribuicao": "2024-05-29T15:44:10",
+      "dataAutuacao": "2024-05-29T15:44:10",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "dataAtualizacao": "2024-10-31",
+          "polo": "ATIVO",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [
+            {
+              "oab": {
+                "uf": "MG",
+                "numero": 202196
+              },
+              "tipo": "ADVOGADO",
+              "dataAtualizacao": "2024-10-31",
+              "cpf": "09217297666",
+              "nome": "ROBSON CARDOSO BATISTA DA SILVA"
+            },
+            {
+              "oab": {
+                "uf": "MG",
+                "numero": 211850
+              },
+              "tipo": "ADVOGADO",
+              "dataAtualizacao": "2024-05-31",
+              "cpf": "13526043612",
+              "nome": "GEFFERSON LUCAS SANTANA COUTO"
+            }
+          ],
+          "cpf": "02392552916",
+          "nome": "JOELCO DANIELSKI"
+        },
+        {
+          "tipo": "REU",
+          "dataAtualizacao": "2024-10-31",
+          "polo": "PASSIVO",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [],
+          "cnpjRaiz": "09463721",
+          "nome": "COOPERATIVA DE CREDITO RURAL COM INTERACAO SOLIDARIA DE JACINTO MACHADO - CRESOL JACINTO MACHADO",
+          "cnpj": "09463721000102"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 13234.09
+      },
+      "eTutelaAntecipada": true,
+      "eJusticaGratuita": true,
+      "ePrioritario": false,
+      "eSegredoJustica": false,
+      "eProcessoDigital": true,
+      "dataProcessamento": "2024-10-31T03:05:28.422521",
+      "statusPredictus": {
+        "statusProcesso": "ARQUIVAMENTO DEFINITIVO",
+        "julgamentos": [
+          {
+            "dataJulgamento": "2024-09-16T11:17:18",
+            "statusJulgamento": "EXTINCAO POR INDEFERIMENTO DA PETICAO INICIAL",
+            "diasAteJulgamento": 109,
+            "tipoJulgamento": "EXTINTA"
+          }
+        ],
+        "ramoDireito": "DIREITO DO CONSUMIDOR",
+        "penhoras": [],
+        "dataTransitoJulgado": "2024-10-21T19:09:56",
+        "justicaGratuita": "DEFERIDA",
+        "dataArquivamento": "2024-10-23T14:13:07"
+      },
+      "temSentenca": false,
+      "temInjuncao": false,
+      "temAcordao": false
+    },
+    {
+      "urlProcesso": "https://eproc1g.tjsc.jus.br/eproc/",
+      "numeroProcessoUnico": "50039816220218240004",
+      "statusObservacao": "BAIXADO",
+      "grauProcesso": 1,
+      "juiz": "LIGIA BOETTGER MOTTOLA",
+      "area": "CIVIL - COBRANCA",
+      "sistema": "EPROC-TJSC",
+      "segmento": "JUSTICA ESTADUAL",
+      "tribunal": "TJ-SC",
+      "uf": "SC",
+      "orgaoJulgador": "JUIZO DA 1ª VARA CIVEL DA COMARCA DE ARARANGUA",
+      "unidadeOrigem": "ARARANGUA",
+      "classeProcessual": {
+        "nome": "PROCEDIMENTO COMUM CIVEL",
+        "codigoCNJ": "7"
+      },
+      "assuntosCNJ": [
+        {
+          "titulo": "DIREITO CIVIL",
+          "codigoCNJ": "899",
+          "ePrincipal": false
+        },
+        {
+          "titulo": "OBRIGACOES",
+          "codigoCNJ": "7681",
+          "ePrincipal": false
+        },
+        {
+          "titulo": "ESPECIES DE TITULOS DE CREDITO",
+          "codigoCNJ": "7717",
+          "ePrincipal": true
+        }
+      ],
+      "dataDistribuicao": "2021-05-07T16:18:37",
+      "dataAutuacao": "2021-05-07T16:18:37",
+      "partes": [
+        {
+          "tipo": "AUTOR",
+          "nome": "JOELCO DANIELSKI",
+          "polo": "ATIVO",
+          "cpf": "02392552916",
+          "origemDocumento": "TRIBUNAL",
+          "advogados": [
+            {
+              "tipo": "ADVOGADO",
+              "nome": "GABRIEL NAGEL SALVADOR",
+              "cpf": "00847561950",
+              "oab": {
+                "uf": "SC",
+                "numero": 32200
+              },
+              "dataAtualizacao": "2024-08-20"
+            }
+          ],
+          "dataAtualizacao": "2024-08-20"
+        },
+        {
+          "tipo": "REU",
+          "nome": "BENTA RESENDE BORGES",
+          "polo": "PASSIVO",
+          "cpf": "82314209915",
+          "origemDocumento": "TRIBUNAL",
+          "dataAtualizacao": "2024-08-20"
+        }
+      ],
+      "valorCausa": {
+        "moeda": "R$",
+        "valor": 4057.17
+      },
+      "eTutelaAntecipada": false,
+      "eJusticaGratuita": false,
+      "ePrioritario": false,
+      "eSegredoJustica": false,
+      "eProcessoDigital": true,
+      "dataProcessamento": "2024-08-20T08:22:18.39975",
+      "statusPredictus": {
+        "statusProcesso": "ARQUIVAMENTO DEFINITIVO",
+        "julgamentos": [
+          {
+            "dataJulgamento": "2022-07-27T19:24:53",
+            "tipoJulgamento": "EXTINTA",
+            "statusJulgamento": "EXTINCAO",
+            "diasAteJulgamento": 446
+          }
+        ],
+        "dataArquivamento": "2022-09-16T14:01:48",
+        "dataTransitoJulgado": "2022-08-11T16:07:37",
+        "ramoDireito": "DIREITO CIVIL",
+        "penhoras": []
+      }
+    }
+  ]
+}
